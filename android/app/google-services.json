@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "609181140835",
+    "firebase_url": "https://assessment-project-cba4a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "assessment-project-cba4a",
+    "storage_bucket": "assessment-project-cba4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609181140835:android:857e2e393c34f591393556",
+        "android_client_info": {
+          "package_name": "com.example.assesment_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOFbEEJ0zO9cS42IsvfRVGuXlV-k5Wjdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
